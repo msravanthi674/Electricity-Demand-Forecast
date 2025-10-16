@@ -1,0 +1,10 @@
+pandas>=1.5
+numpy
+scikit-learn
+matplotlib
+requests
+fpdf>=1.7.2
+python-dateutil
+pytz
+joblib
+streamlit
